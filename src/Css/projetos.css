@@ -1,0 +1,26 @@
+.projeto-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .projeto {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  
+  .projeto h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .projeto p {
+    font-size: 18px;
+    text-align: justify;
+    margin-bottom: 20px;
+  }
+  
